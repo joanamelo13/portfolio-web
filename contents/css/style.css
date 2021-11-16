@@ -1,0 +1,171 @@
+
+html, body, figure, div, h1, h2, ul, li, a, main{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Montagu Slab', serif;
+}
+
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,0.8) 35%, rgba(119,0,96,0.8) 100%, rgba(0,146,255,0.8) 5%);
+}
+
+
+header{
+	background: linear-gradient(90deg, rgba(2,0,36,0.8) 35%, rgba(119,0,96,0.8) 100%, rgba(0,146,255,0.8) 5%);
+    size: 5px;
+	padding: 20px 20px 0;
+    text-align: center;
+}
+
+main{
+	background: linear-gradient(90deg, rgba(2,0,36,0.8) 35%, rgba(119,0,96,0.8) 100%, rgba(0,146,255,0.8) 5%);
+    size: 5px;
+	padding: 20px 20px 0;
+    text-align: center;
+}
+
+footer{
+    size: 5px;
+	padding: 30px 30px;
+    color: #ffff;
+    background: linear-gradient(90deg, rgba(2,0,36,0.8) 35%, rgba(119,0,96,0.8) 100%, rgba(0,146,255,0.8) 5%);
+}
+
+p{
+    text-align: center !important;
+}
+.container{
+    display: flex;
+}
+
+.academic{
+    size: 5px;
+	padding: 200px 300px;
+    margin: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: rgba(255,255,255,0.8);
+}
+.professional{
+    size: 5px;
+	padding: 200px 300px;
+    margin: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: rgba(255,255,255,0.8);
+}
+
+.p-professional{
+    size: 5px;
+	padding: 200px 300px;
+    margin: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: rgba(255,255,255,0.8);
+}
+
+.skills{
+    size: 5px;
+	padding: 200px 300px;
+    margin: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: rgba(255,255,255,0.8);
+}
+
+.courses{
+    size: 5px;
+	padding: 200px 300px;
+    margin: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: rgba(255,255,255,0.8);
+    text-align: center !important;
+}
+
+h1{
+	color: rgb(119, 0, 96) ;
+}
+
+div{
+    text-align: center !important;
+}
+
+.container{
+    text-align: center !important;
+    background-position: center;
+    max-width: 200px;
+    max-height: 200px;
+    width: 50%px !important; 
+    height: 50% !important;
+    border-radius: 50% !important; 
+    background: rgba(255,255,255,0.6) !important;
+}
+
+.img-profile{  
+    max-width: 250px;
+    max-height: 250px;
+    width: 50%px !important; 
+    height: 50% !important;
+    border-radius: 50% !important;
+    text-align: center !important;
+    background: rgba(255,255,255,0.1) !important;
+    box-shadow: rgba(255,255,255,0.1) !important;
+}
+
+.courses-table{
+    text-align: center !important;
+    width: 80% !important;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-color: rgb(119, 0, 96);
+    grid-template-columns: 1px 1px;
+    grid-template-rows: 1px 1px;
+}
+
+td{
+    text-align: center !important;
+    border: 1px solid;
+    border-color: rgb(119, 0, 96);
+    grid-template-columns: 1px 1px;
+    grid-template-rows: 1px 1px;
+}
+
+
+
+.icon-github{
+    max-width: 100px;
+    max-height: 30px;
+    width: 75%px !important; 
+    height: 75% !important;
+}
+
+.icon-linkedin{
+    max-width: 100px;
+    max-height: 30px;
+    width: 50%px !important; 
+    height: 50% !important;
+    border: none;
+}
+
+.social-media-links{
+    text-align: center !important;
+    table-layout: fixed;
+    vertical-align: middle !important;
+    width: 10% !important;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffff;
+    font-family: 'Inconsolata', monospace;
+}
+
+.introduction{
+    color: #fffF;
+    text-align: center !important;
+}
